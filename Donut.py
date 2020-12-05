@@ -22,3 +22,4 @@ price_per_tax = price_per * .05 + price_per
 print('Calculating total cost...')
 time.sleep(1.5)
 print("Thanks,",(name),"please pay $",float(price_per_tax), "at the front!") 
+jklhkjhkjhjkhjkh
